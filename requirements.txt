@@ -1,0 +1,8 @@
+pandas
+numpy
+plotly
+matplotlib
+streamlit
+wordcloud
+Python-IO
+pybase64
